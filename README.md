@@ -1,4 +1,4 @@
-# Visualisation-de-donn-es
+# Visualisation-de-données
 
 ### CandleStick chart ou Chandeliers japonais.
 
@@ -30,6 +30,24 @@ A partir de ces informations, on donnera une couleur au chandelier :
 * Si le prix de clôture est inférieur au prix d’ouverture, le prix de l’action a donc diminué sur la journée : la bougie sera rouge.
 
 Par contre les chandeliers appelés toupie qui caractérisent par une bougie de petite taille comparé à leur mèche ont une interprétation plus complexe. D'abord cette petite bougie signifie un cours de clôture proche du cours d'ouverture, donc une séance hésitante équilibrée entre haussiers et baissiers. Sa signification dépend du contexte.
+
+### Première interprétation
+
+Le principal intérêt des chandeliers japonais est d’observer des séquences de plusieurs chandeliers japonais. Il est cependant possible d’interpréter les chandeliers japonais « seuls ».
+
+Si la bougie est verte : la journée a été positive, nous sommes donc dans une séquence haussière de court-terme. La hausse devrait continuer le lendemain.
+
+Si la bougie est rouge : la journée a été négative, nous sommes donc dans une séquence baissière de court-terme. La baisse devrait continuer le lendemain.
+
+Plus le « corps » est grand (plus la différence entre le prix d’ouverture et de clôture est grande) et plus cette tendance est marquée.
+
+A noter que le corps peut-être invisible quand le prix d’ouverture et de clôture sont le même (ou très proches), on parle de « doji ».
+
+Nous pouvons ensuite analyser la mèche :
+
+* Si la mèche supérieur est grande, cela veut dire que le prix est monté haut avant de descendre. On a donc une pression à la baisse.
+* Si la mèche inférieure est grande, cela veut dire que le prix est descendu très bas avant de remonter. On a donc une pression à la hausse.
+* L’absence de mèche accentuera une tendance haussière (verte) ou une tendance baissière (rouge)
 
 ### Applications
 
