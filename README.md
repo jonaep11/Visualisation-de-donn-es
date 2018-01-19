@@ -62,6 +62,25 @@ Nous pouvons ensuite analyser la mèche :
 Il existe ne nombreuses manières de représenter le prix d’une action sur un graphique. Les chandeliers japonais en sont l’une des plus populaires, si ce n’est la plus populaire.  Et ce, pour une raison simple : les chandeliers japonais sont très riches en information (surtout par rapport aux simples courbes de prix).
 
 
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/descarga.png" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/marubozu_chandelier_japonais.jpg" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
+
+
 ### Réferences
 
 https://fr.wikipedia.org/wiki/Chandeliers_japonais#/media/File:Chandelier_japonais_d%C3%A9finition.svg
