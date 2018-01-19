@@ -29,6 +29,14 @@ A partir de ces informations, on donnera une couleur au chandelier :
 * Si le prix de clôture est supérieur au prix d’ouverture, le prix de l’action a donc progressé sur la journée : la bougie sera verte.
 * Si le prix de clôture est inférieur au prix d’ouverture, le prix de l’action a donc diminué sur la journée : la bougie sera rouge.
 
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/Chandelier_japonais_définition.svg.png" style="width: 100px;">
+    </td>
+  </tr>
+</table>
+
 Par contre les chandeliers appelés toupie qui caractérisent par une bougie de petite taille comparé à leur mèche ont une interprétation plus complexe. D'abord cette petite bougie signifie un cours de clôture proche du cours d'ouverture, donc une séance hésitante équilibrée entre haussiers et baissiers. Sa signification dépend du contexte.
 
 ### Première interprétation
