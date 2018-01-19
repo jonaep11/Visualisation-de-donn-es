@@ -88,3 +88,6 @@ https://fr.wikipedia.org/wiki/Chandeliers_japonais#/media/File:Chandelier_japona
 https://www.abcbourse.com/apprendre/10_intro_chandeliers.html
 
 https://www.tradingsat.com/guide-boursier/les-chandeliers-japonais-16/formes-et-significations-0/
+
+http://objectif10pourcent.com/chandeliers-japonais-14-configurations-a-connaitre/
+
